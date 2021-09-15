@@ -1,0 +1,20 @@
+{
+  "name": "learning_git",
+  "version": "1.0.0",
+  "description": "I am learning to use git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzagul/learning_git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kzagul/learning_git/issues"
+  },
+  "homepage": "https://github.com/kzagul/learning_git#readme"
+}
